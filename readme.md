@@ -4,7 +4,7 @@
 
   2. Mathematics [>>](./mathematics//mathematics.md)
 
-  3. Recursion
+  3. Recursion [>>](./recursion/recursion.md)
 
 - Data structures:
 
