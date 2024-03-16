@@ -2,7 +2,7 @@
 
   1. Analysis of Algorithms [>>](./analysis/Analysis%20of%20algorithms.md)
 
-  2. Mathematics [>>](./mathematics//mathematics.md)
+  2. Mathematics [>>](./mathematics/mathematics.md)
 
   3. Recursion [>>](./recursion/recursion.md)
 
@@ -10,17 +10,17 @@
 
   - level 1:
 
-    1. Arrays
+    1. Arrays [>>](./arrays/arrays.md)
 
-    2. Searching
+    2. Searching [>>](./searching/searching.md)
 
-    3. Sorting
+    3. Sorting [>>](./sorting/sorting.md)
 
-    4. Matrix ( 2D array )
+    4. Matrix ( 2D array ) [>>](./matrix/matrix.md)
 
-    5. Hashing
+    5. Hashing [>>](./hashing/hashing.md)
 
-    6. Strings
+    6. Strings [>>](./strings/strings.md)
 
   - level 2
 
