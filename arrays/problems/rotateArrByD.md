@@ -1,4 +1,4 @@
-[home](./../readme.md) || [back](./sampleProblemsArray2.md)
+[home](../../readme.md) || [back](../sampleProblemsArray2.md)
 
 # Left Rotate an Array by D places
 

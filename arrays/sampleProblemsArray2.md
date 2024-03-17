@@ -249,4 +249,4 @@ Example:
 
 HomeWork: Write a program in your preferred language for the above psuedo code.
 
-[next](./rotateArrByD.md)
+[next](./problems/rotateArrByD.md)

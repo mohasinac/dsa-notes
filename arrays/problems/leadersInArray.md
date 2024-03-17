@@ -1,4 +1,4 @@
-[home](./../readme.md) || [back](./rotateArrByD.md)
+[home](../../readme.md)|| [back](./rotateArrByD.md)
 
 # Leaders in an Array problem
 

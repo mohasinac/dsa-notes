@@ -1,4 +1,4 @@
-[home](./../readme.md) || [back](./maxDiffWithOrderArray.md)
+[home](../../readme.md) || [back](./maxDiffWithOrderArray.md)
 
 # Frequencies in a Sorted Array
 

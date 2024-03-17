@@ -1,4 +1,4 @@
-[home](./../readme.md) || [back](./frequencyArray.md)
+[home](../../readme.md) || [back](./frequencyArray.md)
 
 # Stock Buy and Sell Problem
 
@@ -59,3 +59,5 @@ Representation:
     profit : 865, i: 6, i-1: 5, price[i]: 695, price[i-1]: 535
 
     profit : 865
+
+[next](./trapperWater.md)

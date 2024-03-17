@@ -1,4 +1,4 @@
-[home](./../readme.md) || [back](./leadersInArray.md)
+[home](../../readme.md) || [back](./leadersInArray.md)
 
 # Maximum Difference Problem with Order
 
